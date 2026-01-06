@@ -1,5 +1,0 @@
-mcp
-openai
-httpx
-uvicorn
-python-dotenv
