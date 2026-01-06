@@ -1,6 +1,6 @@
 # 🤖 Linux SRE MCP Agent
 
-An autonomous Site Reliability Engineer (SRE) agent powered by the Model Context Protocol (MCP) and Gemini. This agent connects to your Cherry Studio (or other MCP clients), intelligently diagnoses Linux server issues, performs network scans, and executes remediation steps using an OODA Loop (Observe, Orient, Decide, Act) strategy.
+An autonomous GPU cluster Reliability Engineer (SRE) agent powered by the Model Context Protocol (MCP) and Gemini. This agent connects to your MCP clients (such as Cherry Studio), intelligently diagnoses Linux server issues, performs network scans, and executes remediation steps using an OODA Loop (Observe, Orient, Decide, Act) strategy.
 
 ## ✨ Features
 
@@ -28,3 +28,4 @@ An autonomous Site Reliability Engineer (SRE) agent powered by the Model Context
     ```bash
     python src/server.py
     ```
+
